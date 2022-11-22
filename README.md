@@ -216,3 +216,4 @@ $ git log --graph --pretty=format:'%H %ci %d %s'
 ```
 
 [gitrepo]: https://github.com/giantswarm/gitrepo
+
